@@ -15,6 +15,14 @@
 * Habrá clases de de sólo **ejercitación PTU**.
 * El link de la clase es [https://twitch.tv/fabimath](https://twitch.tv/fabimath)
 
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://twitch.tv/fabimath](https://twitch.tv/fabimath">
+</iframe>
+</div>
+</p>
+
 ## Clases
 En esta sección encontrarás las grabaciones de las clases junto con su respectivo PDF.
 * Clase 1
