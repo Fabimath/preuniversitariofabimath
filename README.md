@@ -4,12 +4,12 @@
 
 ## Informaciones actuales
 
-* Las clases del preuniversitario comienzan el día 8 de marzo a las 21:00 hrs. (hora de Chile).
+* Las clases del preuniversitario comienzan el día 8 de marzo a las 21:30 hrs. (hora de Chile).
 * Los tópicos a trabajar serán los presentes en la página del Demre para la Prueba de Transición Universitaria 2021.
 * El costo del preuniversitario es de 0$ CLP.
 * Requisitos tener motivación para aprender.
 * Se enseñara bajo el supuesto de que no sabes nada, es decir te apoyaremos desde 0.
-* Los días de clases son los lunes y martes a las 21:00 hrs.
+* Los días de clases son los lunes y martes a las 21:30 hrs.
 * El link de la clase es [https://twitch.tv/fabimath](https://twitch.tv/fabimath)
 
 ## Clases
