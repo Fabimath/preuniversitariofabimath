@@ -16,6 +16,6 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 
 ## Sesiones de consulta
 Todos los días de la semana a las 20:30 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
-* (Has click aquí para unirte al grupo de Discord)[https://discord.gg/TR8rrZG3GV]
+* [Has click aquí para unirte al grupo de Discord](https://discord.gg/TR8rrZG3GV)
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
