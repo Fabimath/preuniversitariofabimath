@@ -1,6 +1,10 @@
 # Preuniversitario Fabimath
 
-<img src="preu.jpg" alt="drawing" width="16"/>
+<div>
+<p style = 'text-align:center;'>
+<img src="preu.jpg" alt="JuveYell" width="300px">
+</p>
+</div>
 
 ## Informaciones actuales
 
