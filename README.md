@@ -1,5 +1,7 @@
 # Preuniversitario Fabimath
 
+<img src="preu.jpg" alt="drawing" width="16"/>
+
 ## Informaciones actuales
 
 * Las clases del preuniversitario comienzan el día 8 de marzo a las 21:00 hrs. (hora de Chile).
