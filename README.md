@@ -1,8 +1,7 @@
-# Preuniversitario Fabimath
 
 <div>
 <p style = 'text-align:center;'>
-<img src="preu.jpg" alt="JuveYell" width="300px">
+<img src="preu.jpg" alt="JuveYell" width="500px">
 </p>
 </div>
 
