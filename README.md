@@ -18,7 +18,8 @@
 
 ## Clases
 En esta sección encontrarás las grabaciones de las clases junto con su respectivo PDF.
-* Clase 1
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1xjcgnN50NX-vsuXiHnZ6vhePB98FMZfX/view?usp=sharing) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo 1](https://youtu.be/UKTaUkKN_mQ)
 
 ## Sesiones de consulta
 Todos los días de la semana a las 20:30 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
