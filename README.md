@@ -21,7 +21,7 @@
 En esta sección encontrarás las grabaciones de las clases junto con su respectivo PDF.
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1xjcgnN50NX-vsuXiHnZ6vhePB98FMZfX/view?usp=sharing) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GnhsCdAr-1g) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 1](https://drive.google.com/open?id=1Uk31JOnJoFbdNgShMTwcEDM7Xtkf3zLO&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
- [Vídeo Ejercicios 1](https://youtu.be/gCco0jO7m38)
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 1](https://youtu.be/gCco0jO7m38)
 
 ## Sesiones de consulta
 Todos los días de la semana a las 20:30 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
