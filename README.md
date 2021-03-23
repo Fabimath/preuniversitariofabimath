@@ -34,8 +34,10 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://www.youtube.com/watch?v=Y54YIt74Jso&t=4337s) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 2](https://drive.google.com/open?id=1Um9Ok42oBShq0bbHPNTUs8K0ZtAkVp4c&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 2](https://youtu.be/1aLOr7-_DjY)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/>[Ejercicios Extras 1](https://drive.google.com/open?id=1UmAH83AsA_m1cjK6YDYkDiq9i3eKtKOe&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -  <img src="yt_logo.svg" alt="drawing" width="12"/>[Vídeo Ejercicios Extra 1](https://youtu.be/BeHjkVIoFzw)
- 
- 
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 3](https://drive.google.com/open?id=1Umm5rhoqJs2ijIEkgslJ2RZON0vE-mAp&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/P6Huot6eQl0) 
+
+
 ## Sesiones de consulta
 Todos los días de la semana a las 19:00 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
 * [Has click aquí para unirte al grupo de Discord](https://discord.gg/TR8rrZG3GV)
