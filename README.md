@@ -38,11 +38,11 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/P6Huot6eQl0) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 3](https://drive.google.com/open?id=1UnbM9bNhmUrhaLu7KME5ssAJb6zh37Gd&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 3](https://youtu.be/sk1-FbmnF18)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 4](https://drive.google.com/open?id=1Uq5OKN5MbXDNKfINjL29jrcoSt3tw1u7&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 4](https://youtu.be/GsbMHuUNOfk)
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 4](https://youtu.be/_ALlObJk1Lk)
 
 ## Clases Biología
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/_ALlObJk1Lk)
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GsbMHuUNOfk)
 
 ## Sesiones de consulta
 Todos los días de la semana a las 19:00 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
