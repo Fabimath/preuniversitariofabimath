@@ -25,7 +25,7 @@ Desde el lunes 22 de Marzo los horarios de las clases del Preuniversitario será
 
 Sólo tienes que meterte a este link los días de clasess [https://twitch.tv/fabimath](https://twitch.tv/fabimath)
 
-## Clases
+## Clases Matemáticas
 En esta sección encontrarás las grabaciones de las clases junto con su respectivo PDF.
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1xjcgnN50NX-vsuXiHnZ6vhePB98FMZfX/view?usp=sharing) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GnhsCdAr-1g) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 1](https://drive.google.com/open?id=1Uk31JOnJoFbdNgShMTwcEDM7Xtkf3zLO&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
@@ -37,7 +37,12 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 3](https://drive.google.com/open?id=1Umm5rhoqJs2ijIEkgslJ2RZON0vE-mAp&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/P6Huot6eQl0) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 3](https://drive.google.com/open?id=1UnbM9bNhmUrhaLu7KME5ssAJb6zh37Gd&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 3](https://youtu.be/sk1-FbmnF18)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 4](https://drive.google.com/open?id=1Uq5OKN5MbXDNKfINjL29jrcoSt3tw1u7&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 4](https://youtu.be/GsbMHuUNOfk)
 
+## Clases Biología
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/_ALlObJk1Lk)
 
 ## Sesiones de consulta
 Todos los días de la semana a las 19:00 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
