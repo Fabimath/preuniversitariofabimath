@@ -9,10 +9,12 @@
 
 Desde el lunes 22 de Marzo los horarios de las clases del Preuniversitario serán los siguientes:
 * Lunes, Martes, Sábados y Domingos, clases de mátematicas PTU a las 20:00 hrs.
-* Viernes 21:30 hrs, Clases PTU de Biología
+* Jueves 20:00 hrs. Clase PTU de Química (Iris)
+* Viernes 21:30 hrs. Clases PTU de Biología (Catalina)
 
 ## Informaciones actuales
 
+* Las clases de Química parten el día 01 de Abril a las 20:00 hrs.
 * Las clases de Biología parten el día 26 de Marzo a las 21:30 hrs.
 * Las clases del preuniversitario comienzan el día **8 de marzo a las 21:30 hrs**. (hora de Chile).
 * Los tópicos a trabajar serán los presentes en la página del Demre para la Prueba de Transición Universitaria 2021.
@@ -40,6 +42,9 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 4](https://drive.google.com/open?id=1Uq5OKN5MbXDNKfINjL29jrcoSt3tw1u7&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 4](https://youtu.be/_ALlObJk1Lk) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 4](https://drive.google.com/open?id=1UrTchR5-mQK6uL6FUUtL5f9nW5tqOPkr&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 4](https://youtu.be/Ubfh4x31Ay4)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 5](https://drive.google.com/open?id=1UuwfNoNnc9JC6uwW89Xeg0dL9slA7uJm&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 5](https://youtu.be/zRP4csswv60) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 5](https://drive.google.com/open?id=1UsR6LGOQXEL0v4mIjS0XleYPO890l7Ky&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 5](https://youtu.be/IEsCmaZYNEw)
  
 
 ## Clases Biología
