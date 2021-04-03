@@ -5,9 +5,8 @@
 </p>
 </div>
 
-## Horarios
+## Horarios (TODOS LOS DÍAS MENOS EL VIERNES A LAS 8 POR TWITCH)
 
-Desde el lunes 22 de Marzo los horarios de las clases del Preuniversitario serán los siguientes:
 * Lunes, Martes, Sábados y Domingos, clases de mátematicas PTU a las 20:00 hrs.
 * Jueves 20:00 hrs. Clase PTU de Química (Iris)
 * Viernes 21:30 hrs. Clases PTU de Biología (Catalina)
@@ -47,9 +46,14 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 5](https://youtu.be/IEsCmaZYNEw)
  
 
-## Clases Biología
+## Clases Biología (Por Catalina)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GsbMHuUNOfk)
+ 
+## Clases de Química (Por Iris)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/open?id=1V5Lvwg1swoHrSvO9KZ4WA72iVKuuW8IV&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/k08jkyqEyBs)
+
 
 ## Sesiones de consulta
 Todos los días de la semana a las 19:00 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
