@@ -49,6 +49,10 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 ## Clases Biología (Por Catalina)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GsbMHuUNOfk)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://docs.google.com/presentation/d/1UyWSztLEqSIm2rUpZFYXGnXBmSUWFLMH?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/gW7pirkGOF0)
+
+
  
 ## Clases de Química (Por Iris)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/open?id=1V5Lvwg1swoHrSvO9KZ4WA72iVKuuW8IV&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
