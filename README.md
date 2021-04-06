@@ -44,19 +44,23 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 5](https://drive.google.com/open?id=1UuwfNoNnc9JC6uwW89Xeg0dL9slA7uJm&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 5](https://youtu.be/zRP4csswv60) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 5](https://drive.google.com/open?id=1UsR6LGOQXEL0v4mIjS0XleYPO890l7Ky&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 5](https://youtu.be/IEsCmaZYNEw)
+ * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 6](https://drive.google.com/open?id=1V72vm68gmn0ZdMfDNujNPM-SD9RrEaoG&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 6](https://youtu.be/7CcNtSyqSQ0) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 6](https://drive.google.com/open?id=1V5xdKQLvPsZVy50EeGTkHrbC8j2bwCEP&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 6]()
+
  
 
 ## Clases Biología (Por Catalina)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GsbMHuUNOfk)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://docs.google.com/presentation/d/1UyWSztLEqSIm2rUpZFYXGnXBmSUWFLMH?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
-<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/gW7pirkGOF0)
+<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/aZgGhhf7ko8)
 
 
  
 ## Clases de Química (Por Iris)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/open?id=1V5Lvwg1swoHrSvO9KZ4WA72iVKuuW8IV&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/k08jkyqEyBs)
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/yoREyuCLGVQ)
 
 
 ## Sesiones de consulta
