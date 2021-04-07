@@ -49,7 +49,7 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 6](https://youtu.be/9tTgZVwAnvs)
  * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 7](https://drive.google.com/open?id=1V8Pv_YYN8ES1NBcjmI0fcWGgiM9dZlFI&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 7](https://youtu.be/rk4ePHk3L-c) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 7](https://drive.google.com/open?id=1VAZ3ZyLuw0bffCtUAwCBgSHYHzOmx1YO&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 7]()
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 7](https://youtu.be/rc5t9JH7eDM
  
 
 ## Clases Biología (Por Catalina)
