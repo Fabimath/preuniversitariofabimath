@@ -46,14 +46,16 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 5](https://youtu.be/IEsCmaZYNEw)
  * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 6](https://drive.google.com/open?id=1V72vm68gmn0ZdMfDNujNPM-SD9RrEaoG&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 6](https://youtu.be/7CcNtSyqSQ0) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 6](https://drive.google.com/open?id=1V5xdKQLvPsZVy50EeGTkHrbC8j2bwCEP&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 6]()
-
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 6](https://youtu.be/9tTgZVwAnvs)
+ * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 7](https://drive.google.com/open?id=1V8Pv_YYN8ES1NBcjmI0fcWGgiM9dZlFI&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 7](https://youtu.be/rk4ePHk3L-c) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 7](https://drive.google.com/open?id=1VAZ3ZyLuw0bffCtUAwCBgSHYHzOmx1YO&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 7]()
  
 
 ## Clases Biología (Por Catalina)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GsbMHuUNOfk)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://docs.google.com/presentation/d/1UyWSztLEqSIm2rUpZFYXGnXBmSUWFLMH?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 2](https://docs.google.com/presentation/d/1UyWSztLEqSIm2rUpZFYXGnXBmSUWFLMH?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
 <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/aZgGhhf7ko8)
 
 
