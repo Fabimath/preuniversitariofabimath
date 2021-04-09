@@ -57,6 +57,7 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GsbMHuUNOfk)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 2](https://docs.google.com/presentation/d/1UyWSztLEqSIm2rUpZFYXGnXBmSUWFLMH?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
 <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/aZgGhhf7ko8)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/>[Resumen Clase 2](https://drive.google.com/open?id=1VAnqNK_AYYWxcpl9blv6ZwcZhmsYGgJN&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 
 
  
