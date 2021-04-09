@@ -64,7 +64,8 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 ## Clases de Química (Por Iris)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/open?id=1V5Lvwg1swoHrSvO9KZ4WA72iVKuuW8IV&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/yoREyuCLGVQ)
-
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 2](https://drive.google.com/open?id=1VCQtxV3dQDPDgtH68Jw9e5YGIZ80KX0m&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/-YyqOJFgOGc)
 
 ## Sesiones de consulta
 Todos los días de la semana a las 19:00 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
