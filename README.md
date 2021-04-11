@@ -50,7 +50,10 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 7](https://drive.google.com/open?id=1V8Pv_YYN8ES1NBcjmI0fcWGgiM9dZlFI&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 7](https://youtu.be/rk4ePHk3L-c) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 7](https://drive.google.com/open?id=1VAZ3ZyLuw0bffCtUAwCBgSHYHzOmx1YO&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 7](https://youtu.be/rc5t9JH7eDM)
+ * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 8](https://drive.google.com/open?id=1VCkRqDgUyTmnfJN3Lh-Cplq7NvgT0Tqk&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 8](https://youtu.be/B07NWBH0SSQ)
  
+
 
 ## Clases Biología (Por Catalina)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
@@ -58,6 +61,8 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 2](https://docs.google.com/presentation/d/1UyWSztLEqSIm2rUpZFYXGnXBmSUWFLMH?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
 <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/aZgGhhf7ko8)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/>[Resumen Clase 2](https://drive.google.com/open?id=1VAnqNK_AYYWxcpl9blv6ZwcZhmsYGgJN&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 3](https://docs.google.com/presentation/d/1VDW4pKi0CV1aBnrrgo53S9yH8mNlir2P?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/0Dg7-AXeUcM)
 
 
  
