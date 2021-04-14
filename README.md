@@ -51,8 +51,11 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 7](https://youtu.be/rk4ePHk3L-c) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 7](https://drive.google.com/open?id=1VAZ3ZyLuw0bffCtUAwCBgSHYHzOmx1YO&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 7](https://youtu.be/rc5t9JH7eDM)
  * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 8](https://drive.google.com/open?id=1VCkRqDgUyTmnfJN3Lh-Cplq7NvgT0Tqk&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 8](https://youtu.be/B07NWBH0SSQ)
- 
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 8](https://youtu.be/B07NWBH0SSQ) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 8](https://drive.google.com/open?id=1VVws6JsQOsGCHwn-zQfj5Q0aMtxZPTDf&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 8](https://youtu.be/HBZnXWlWRsY)
+ * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 9](https://drive.google.com/open?id=1VWNbA9fUP9fLegN2iTdHyKbN1e0P95wA&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 9](https://youtu.be/7BfoJ3d4Yiw) - <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ejercicios 9](https://drive.google.com/open?id=1VUgw12sPqipRTzB7WZ0JFMolBkbKm1Js&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) - 
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Ejercicios 9](https://youtu.be/ojeaM8XbyW4)
 
 
 ## Clases Biología (Por Catalina)
