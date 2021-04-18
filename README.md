@@ -66,7 +66,8 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
 * <img src="pdf_logo.svg" alt="drawing" width="12"/>[Resumen Clase 2](https://drive.google.com/open?id=1VAnqNK_AYYWxcpl9blv6ZwcZhmsYGgJN&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 3](https://docs.google.com/presentation/d/1VDW4pKi0CV1aBnrrgo53S9yH8mNlir2P?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
 <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/0Dg7-AXeUcM)
-
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 4](https://docs.google.com/presentation/d/1VgfzbB6nmPuVAUBc98x4yNUK8PctjdGS?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
+<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 4](https://youtu.be/veJZobs5htw)
 
  
 ## Clases de Química (Por Iris)
@@ -74,6 +75,8 @@ En esta sección encontrarás las grabaciones de las clases junto con su respect
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/yoREyuCLGVQ)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 2](https://drive.google.com/open?id=1VCQtxV3dQDPDgtH68Jw9e5YGIZ80KX0m&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
  <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/-YyqOJFgOGc)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 3]() -
+ <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/EjruJ9hqIJo)
 
 ## Sesiones de consulta
 Todos los días de la semana a las 19:00 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
