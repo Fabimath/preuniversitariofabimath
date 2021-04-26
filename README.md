@@ -32,28 +32,17 @@ Sólo tienes que meterte a este link los días de clasess [https://twitch.tv/fab
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de las clases de Álgebra](https://www.youtube.com/playlist?list=PLEZl5kuzUiGn7K0N0LeGHlf7oshHJqjV4)
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de los ejercicios de Álgebra](https://www.youtube.com/playlist?list=PLEZl5kuzUiGnV5vy_v483vg6O2-_Z4fL6)
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de las clases de Geometría](https://www.youtube.com/playlist?list=PLEZl5kuzUiGmWmJXbjv0cTYcMxU-723Fv)
-* <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de las clases de Geometría](https://www.youtube.com/playlist?list=PLEZl5kuzUiGnjwvSUDh7-lWk_QZTi10Rj)
+* <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de los ejercicios de Geometría](https://www.youtube.com/playlist?list=PLEZl5kuzUiGnjwvSUDh7-lWk_QZTi10Rj)
 
 
 ## Clases Biología (Por Catalina)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/file/d/1piEK6LqSgKmFbQS_94qXoJVIECug8bLs/view?usp=sharing) -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/GsbMHuUNOfk)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 2](https://docs.google.com/presentation/d/1UyWSztLEqSIm2rUpZFYXGnXBmSUWFLMH?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
-<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/aZgGhhf7ko8)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/>[Resumen Clase 2](https://drive.google.com/open?id=1VAnqNK_AYYWxcpl9blv6ZwcZhmsYGgJN&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 3](https://docs.google.com/presentation/d/1VDW4pKi0CV1aBnrrgo53S9yH8mNlir2P?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
-<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/0Dg7-AXeUcM)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 4](https://docs.google.com/presentation/d/1VgfzbB6nmPuVAUBc98x4yNUK8PctjdGS?rtpof=true&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
-<img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 4](https://youtu.be/veJZobs5htw)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de las Clases](https://drive.google.com/open?id=1W8gJjDOtDlahd71LQhGYaWD1XFS_Sl7a&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="yt_logo.svg" alt="drawing" width="12"/>[Vídeos de las Clases](https://www.youtube.com/playlist?list=PLEZl5kuzUiGlGpuFhd1nwAt5PAl1HNU6I)
 
  
 ## Clases de Química (Por Iris)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 1](https://drive.google.com/open?id=1V5Lvwg1swoHrSvO9KZ4WA72iVKuuW8IV&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 1](https://youtu.be/yoREyuCLGVQ)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 2](https://drive.google.com/open?id=1VCQtxV3dQDPDgtH68Jw9e5YGIZ80KX0m&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs) -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 2](https://youtu.be/-YyqOJFgOGc)
-* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Clase 3]() -
- <img src="yt_logo.svg" alt="drawing" width="12"/> [Vídeo Clase 3](https://youtu.be/EjruJ9hqIJo)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de las Clases](https://drive.google.com/open?id=1VxEWa22YD-pczw9kKfXQFSu_8fM6wJg7&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="yt_logo.svg" alt="drawing" width="12"/>[Vídeos de las Clases](https://www.youtube.com/playlist?list=PLEZl5kuzUiGlOtxu8Q3_3MiMnJyByKNb5)
 
 ## Sesiones de consulta
 Todos los días de la semana a las 19:00 hrs. estaré en el siguiente grupo de discord en el canal de consultas, ahí tu puedes ir libremente a realizar todas tus consultas sobre matería o ejercios del Preuniversitario.
