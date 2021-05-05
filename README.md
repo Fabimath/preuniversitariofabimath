@@ -34,7 +34,7 @@ Sólo tienes que meterte a este link los días de clasess [https://twitch.tv/fab
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de las clases de Geometría](https://www.youtube.com/playlist?list=PLEZl5kuzUiGmWmJXbjv0cTYcMxU-723Fv)
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de los ejercicios de Geometría](https://www.youtube.com/playlist?list=PLEZl5kuzUiGnjwvSUDh7-lWk_QZTi10Rj)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de los MegaResumenes de Matemática/Álgebra](https://drive.google.com/open?id=1WsXpU8NBgWoIWTgA0c5FY1Zkhqqqji3R&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
-* <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de los MegaResumenes de Matemática/Álgebra]()
+* <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de los MegaResumenes de Matemática/Álgebra](https://youtube.com/playlist?list=PLEZl5kuzUiGm4PQmWmtVovNAaf7UFblB6)
 
 
 
