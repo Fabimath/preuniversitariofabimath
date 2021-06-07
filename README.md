@@ -29,6 +29,8 @@ Sólo tienes que meterte a este link los días de clases
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de los MegaResumenes de Matemática](https://youtube.com/playlist?list=PLEZl5kuzUiGm4PQmWmtVovNAaf7UFblB6)
 
 ## Clases de Física
+* <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de las Clases](https://drive.google.com/open?id=1Y9HEUV3NqHB3LQ83N4ddZ99qBnw-rFnc&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="yt_logo.svg" alt="drawing" width="12"/>[Vídeos de las Clases](https://www.youtube.com/playlist?list=PLEZl5kuzUiGn70jdrEmS7IWrzoLmMzEHp)
 
 ## Clases de Química (Por Iris)
 * <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de las Clases](https://drive.google.com/open?id=1VxEWa22YD-pczw9kKfXQFSu_8fM6wJg7&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
