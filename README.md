@@ -28,6 +28,12 @@ Sólo tienes que meterte a este link los días de clases
 * <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de los MegaResumenes de Matemática](https://drive.google.com/open?id=1WsXpU8NBgWoIWTgA0c5FY1Zkhqqqji3R&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Lista de reproducción de los MegaResumenes de Matemática](https://youtube.com/playlist?list=PLEZl5kuzUiGm4PQmWmtVovNAaf7UFblB6)
 
+## Clases Matemáticas Intesivo
+* <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de las Clases](https://drive.google.com/open?id=1YB-zUz4kAl3ZyPoU5APeEVLNHZTchYDu&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de los Ejercicios](https://drive.google.com/open?id=1YBAHMbR2W6g6AieZ67af-NAvBnRXXRoC&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="yt_logo.svg" alt="drawing" width="12"/>[Videos de las clases de materia del plan intensivo](https://www.youtube.com/playlist?list=PLEZl5kuzUiGmjnP8nWVvQZgO3QB72NEAX)
+* <img src="yt_logo.svg" alt="drawing" width="12"/>[Videos de las clases de ejercicios del plan intensivo](https://www.youtube.com/playlist?list=PLEZl5kuzUiGkCe3WL6TGA9InPJx8oyI62)
+
 ## Clases de Física
 * <img src="pdf_logo.svg" alt="drawing" width="12"/>[PDF de las Clases](https://drive.google.com/open?id=1Y9HEUV3NqHB3LQ83N4ddZ99qBnw-rFnc&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 * <img src="yt_logo.svg" alt="drawing" width="12"/>[Vídeos de las Clases](https://www.youtube.com/playlist?list=PLEZl5kuzUiGn70jdrEmS7IWrzoLmMzEHp)
