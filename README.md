@@ -1,5 +1,7 @@
 [//]: <> (Página del Preuniversitario Fabimath)
 
+<img src="fotos/corte.png" alt="drawing" />
+
 # Informaciones actuales
 
 Fabimath es un preuniversitario gratuito abierto donde todos pueden aprender lo que necesitan para entrar a la universidad y a la carrera que quieran.
