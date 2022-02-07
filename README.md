@@ -2,15 +2,18 @@
 
 <img src="fotos/corte.png" alt="drawing" />
 
-<iframe src="https://clips.twitch.tv/embed?clip=DirtyResolutePeanutRickroll-a6Dzq-S5qNEui3qm&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-
-Tito
+<iframe
+    src="https://player.twitch.tv/?channel=dallas&parent=streamernews.example.com&muted=true"
+    height="720"
+    width="1280"
+    allowfullscreen="true">
+</iframe>
 
 # Informaciones actuales
 
 Fabimath es un preuniversitario gratuito abierto donde todos pueden aprender lo que necesitan para entrar a la universidad y a la carrera que quieran.
 Tenemos especialidad en la eduación de la matemática, sobretodo para personas que no saben nada de ella.
-Las clases son todos los días por twitch en el canal Fabimath. Un saludo pal carlos
+Las clases son todos los días por twitch en el canal Fabimath.
 
 # Horarios (TODOS LOS DÍAS A LAS 8 POR TWITCH)
 
