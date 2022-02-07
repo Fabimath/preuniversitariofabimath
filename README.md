@@ -10,7 +10,7 @@ Tito
 
 Fabimath es un preuniversitario gratuito abierto donde todos pueden aprender lo que necesitan para entrar a la universidad y a la carrera que quieran.
 Tenemos especialidad en la eduación de la matemática, sobretodo para personas que no saben nada de ella.
-Las clases son todos los días por twitch en el canal Fabimath.
+Las clases son todos los días por twitch en el canal Fabimath. Un saludo pal carlos
 
 # Horarios (TODOS LOS DÍAS A LAS 8 POR TWITCH)
 
