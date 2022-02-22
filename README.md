@@ -2,13 +2,6 @@
 
 <img src="fotos/corte.png" alt="drawing" />
 
-<iframe
-    src="https://player.twitch.tv/?channel=dallas&parent=streamernews.example.com&muted=true"
-    height="720"
-    width="1280"
-    allowfullscreen="true">
-</iframe>
-
 # Informaciones actuales
 
 Fabimath es un preuniversitario gratuito abierto donde todos pueden aprender lo que necesitan para entrar a la universidad y a la carrera que quieran.
