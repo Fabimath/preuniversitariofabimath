@@ -14,8 +14,7 @@ que quieren entrar a carreras copadas (ingenierías y medicina).
 
 # ¿Quienes Somos?
 
-<img src="fotos/fabimath.png" alt="drawing" /> <img src="fotos/iris.png" alt="drawing" />
-
+<img src="fotos/quiensomos.png" alt="drawing" /> 
 
 # Horarios 
 
