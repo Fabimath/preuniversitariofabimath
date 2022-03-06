@@ -8,10 +8,6 @@ Preuniversitario Fabimath es un preuniversitario solidario online decidido a for
 universitarias. Dentro del preuniversitario encontraras, material, ejercicios, zona de consultas y preparación enfocada para estudiantes
 que quieren entrar a carreras copadas (ingenierías y medicina).
 
-# ¿Cómo Postular?
-
-[![formulario](fotos/CHEM.png)](https://docs.google.com/forms/d/e/1FAIpQLSf9tYeOAiBA4cpSih7jkpM3Z1UTJ3ULwcoIbC7eJWTtRuB9jg/viewform)
-
 # ¿Quienes Somos?
 
 <img src="fotos/quiensomos.png" alt="drawing" /> 
