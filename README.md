@@ -20,7 +20,12 @@ que quieren entrar a carreras copadas (ingenierías y medicina).
 
 
 # Horarios 
-Por definir
+
+<img src="fotos/horario.png" alt="drawing" />
+
+# Apuntes
+
+[![mate](fotos/mate.png)](https://drive.google.com/open?id=1Q4LABVdX8hJayC_Teed6WiDExWQjjBIx&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 
 # ¿Cómo unirse a la clase?
 
