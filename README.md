@@ -16,6 +16,8 @@ que quieren entrar a carreras copadas (ingenierías y medicina).
 [![mate](fotos/bio.png)](https://drive.google.com/open?id=1f2NalBJ2-NpojCDy8SuZiqrntjnox7Ky&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 [![mate](fotos/quim.png)](https://drive.google.com/open?id=13uemn4VIOjIajDycvVQDTQGmpJKTJuW8&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 [![rep](fotos/replay.png)](https://www.youtube.com/playlist?list=PLEZl5kuzUiGkcY5JiEH96Rax6RJ5P2Awk)
+[![rep](fotos/rep_bio.png)](https://youtube.com/playlist?list=PLEZl5kuzUiGmUHdVGTKNbgq_daEcweiCs)
+[![rep](fotos/rep_quim.png)](https://youtube.com/playlist?list=PLEZl5kuzUiGkJmirOOuoFZN1E6X-lGiAE)
 
 
 
