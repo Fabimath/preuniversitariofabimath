@@ -13,6 +13,8 @@ que quieren entrar a carreras copadas (ingenierías y medicina).
 [![ds](fotos/ds.png)](https://discord.gg/TR8rrZG3GV)
 # Apuntes Y Repeticiones
 [![mate](fotos/mate.png)](https://drive.google.com/open?id=1Q4LABVdX8hJayC_Teed6WiDExWQjjBIx&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+[![mate](fotos/bio.png)](https://drive.google.com/open?id=1f2NalBJ2-NpojCDy8SuZiqrntjnox7Ky&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+[![mate](fotos/quim.png)](https://drive.google.com/open?id=13uemn4VIOjIajDycvVQDTQGmpJKTJuW8&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 [![rep](fotos/replay.png)](https://www.youtube.com/playlist?list=PLEZl5kuzUiGkcY5JiEH96Rax6RJ5P2Awk)
 
 
