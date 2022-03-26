@@ -11,6 +11,8 @@ que quieren entrar a carreras copadas (ingenierías y medicina).
 # ¿Cómo unirse a la clase?
 [![tw](fotos/twtich.png)](https://twitch.tv/fabimath)
 [![ds](fotos/ds.png)](https://discord.gg/TR8rrZG3GV)
+[![ds](fotos/ig.png)](https://www.instagram.com/fabi_math/)
+[![ds](fotos/twitter.png)](https://twitter.com/Fabi_Math)
 # Apuntes Y Repeticiones
 [![mate](fotos/mate.png)](https://drive.google.com/open?id=1Q4LABVdX8hJayC_Teed6WiDExWQjjBIx&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 [![mate](fotos/bio.png)](https://drive.google.com/open?id=1f2NalBJ2-NpojCDy8SuZiqrntjnox7Ky&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
